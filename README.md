@@ -18,5 +18,5 @@ This project is a **deep learning-based Facial Expression Recognition system** t
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/Facial-Expression-Recognition.git
+   git clone https://github.com/udhay2004/Facial-Expression-Recognition.git
    cd Facial-Expression-Recognition
